@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Developers are stupid and GitHub is communist!
 Use the left arrow to go back!
